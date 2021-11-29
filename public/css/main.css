@@ -516,7 +516,7 @@ button span {
 
 #createChatButton:disabled {
 	background-color: var(--lightGrey);
-	color: var(--greyText);
+	color: whitesmoke;
 }
 
 .selectedUser {
