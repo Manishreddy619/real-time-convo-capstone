@@ -507,7 +507,7 @@ button span {
 
 #createChatButton {
 	border: none;
-	background-color: var(--blue);
+	background-color: rgba(0, 128, 0, 0.774);
 	color: #fff;
 	padding: 7px 20px;
 	margin: 10px auto;
