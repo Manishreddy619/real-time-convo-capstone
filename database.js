@@ -17,9 +17,7 @@ class Database {
 
 	connect() {
 		mongoose
-			.connect(
-				'mongodb+srv://manish:manishreddy@capstone.s261a.mongodb.net/test',
-			)
+			.connect(process.env.MONGO_CONNECTION)
 			.then(() => {
 				console.log('database connection successful');
 			})
