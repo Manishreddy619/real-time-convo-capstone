@@ -1,5 +1,5 @@
 ﻿# real-time-convo-capstone
-social network site you hang with your friends,share your moments and chat:
+social network site you can hangout with your friends,post your moments and chat:
 
 reactions
 
